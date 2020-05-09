@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TableIndexesView_Example' do
+  pod 'TableIndexesView', :path => '../'
+
+  target 'TableIndexesView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
