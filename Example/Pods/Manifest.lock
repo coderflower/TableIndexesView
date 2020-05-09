@@ -1,0 +1,16 @@
+PODS:
+  - TableIndexesView (0.1.0)
+
+DEPENDENCIES:
+  - TableIndexesView (from `../`)
+
+EXTERNAL SOURCES:
+  TableIndexesView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TableIndexesView: 0755788c29b3b40301b52e7905bb23bf7aa0a58f
+
+PODFILE CHECKSUM: 85dda90b970390e255b3a854463c8e034e9657fc
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,6 @@
+framework module TableIndexesView {
+  umbrella header "TableIndexesView-umbrella.h"
+
+  export *
+  module * { export * }
+}
